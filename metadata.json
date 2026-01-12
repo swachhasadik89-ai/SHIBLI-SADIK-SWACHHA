@@ -1,0 +1,7 @@
+{
+  "name": "GrowthQuest",
+  "description": "An ultimate personal growth, study tracker, and reflection web application utilizing Gamification and AI insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
